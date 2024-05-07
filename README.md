@@ -1,6 +1,6 @@
 ### Demo
 
-![demo](Gif\demo.gif)
+![demo](https://github.com/mertcookimg/unity_ballgame/blob/feature-readme/Gif/demo.gif)
 
 ### Unity Version
 - 2021.3.26f1
